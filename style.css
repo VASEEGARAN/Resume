@@ -1,11 +1,12 @@
 
-.column {
+column {
     float: left;
     width: 470px;
     height: 2100px;
     padding: 10px;
 }
-.row:after {
+
+row:after {
     float:left;
     width: 970px;
     padding: 30px;
@@ -21,7 +22,7 @@ body {
     
 }            
 
-.ele{
+ele{
     color:white;
     margin:0px;
     padding:14px;
@@ -29,7 +30,7 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.subhead{
+subhead{
     color:white;
     margin:0px;
     padding:14px;
@@ -37,7 +38,7 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.sub-sub{
+sub-sub{
     color:white;
     margin:0px;
     padding:14px;
@@ -53,11 +54,8 @@ body {
     font-size: 60px;
 }
 
-div.a{
-    list-style-type:none;
-}
 
-.ele a{
+ele a{
     color: white;
 }
 
